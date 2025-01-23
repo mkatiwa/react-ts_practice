@@ -1,0 +1,19 @@
+.container {
+    background-color: lightblue;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  /* Style for the text */
+  .text {
+    color: darkblue;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  /* Additional style for emphasis */
+  .emphasis {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+  }
