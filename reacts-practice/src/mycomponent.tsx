@@ -28,8 +28,8 @@ function House () {
     return (
         <div>
             className = "text"
-            className += "Container"
-            className += "empasis"
+            className = "Container"
+            className = "empasis"
 
         </div>
     );

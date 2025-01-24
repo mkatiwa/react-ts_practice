@@ -7,7 +7,7 @@ import StyledComponent from './styledcomponent';
 const App: React.FC = () => {
     return (
         <div>
-            <h2>welcome tot my books</h2>
+            <h2>welcome to my books</h2>
             {/* Render the Book component*/}
             <Book title="The Catcher in the Rye" pages={34} isActive={true}/>
 
@@ -19,13 +19,9 @@ const App: React.FC = () => {
             {/* Render the StyledComponent component*/}
             <StyledComponent bgColor="lightgreen" textcolor="darkgreen" />
 
-
-
         </div>
     );
 };
-
-
 
 
 export default App;
